@@ -2,11 +2,11 @@ import random
 from time import sleep
 
 #Defições dos status iniciais:
-vida_maxima = 1000
+vida_maxima = 70
 nivel = 1  
 experiencia = 0
 poções = 20
-forca = 1000
+forca = 0
 constituicao = 0
 vida_jogador = vida_maxima + constituicao
 nome = input("\nOlá, guerreiro(a)... Digite o seu nome: ")
